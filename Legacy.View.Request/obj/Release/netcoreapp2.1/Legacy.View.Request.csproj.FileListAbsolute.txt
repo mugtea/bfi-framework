@@ -1,0 +1,16 @@
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\bin\Release\netcoreapp2.1\Legacy.View.Request.deps.json
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\bin\Release\netcoreapp2.1\Legacy.View.Request.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\bin\Release\netcoreapp2.1\Legacy.View.Request.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.AssemblyInfo.cs
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\bin\Release\netcoreapp2.1\Legacy.View.Request.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\bin\Release\netcoreapp2.1\Legacy.View.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\bin\Release\netcoreapp2.1\Legacy.View.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Request\obj\Release\netcoreapp2.1\Legacy.View.Request.pdb

@@ -1,0 +1,31 @@
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.deps.json
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.csprojAssemblyReference.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfo.cs
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.deps.json
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfo.cs
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.deps.json
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfo.cs
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\bin\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Transaction.TransactionException\obj\Debug\netcoreapp2.1\Legacy.Transaction.TransactionException.pdb

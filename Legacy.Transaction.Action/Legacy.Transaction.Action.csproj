@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Legacy.API.Proxy\Legacy.API.Proxy.csproj" />
+    <PackageReference Include="AutoMapper" Version="8.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Legacy.Repository.Command\Legacy.Repository.Command.csproj" />
+    <ProjectReference Include="..\Legacy.Repository.Query\Legacy.Repository.Query.csproj" />
+    <ProjectReference Include="..\Legacy.Transaction.Rule\Legacy.Transaction.Rule.csproj" />
+    <ProjectReference Include="..\Legacy.Transaction.TransactionException\Legacy.Transaction.TransactionException.csproj" />
+    <ProjectReference Include="..\Legacy.View.Enricher\Legacy.View.Enricher.csproj" />
+  </ItemGroup>
+</Project>

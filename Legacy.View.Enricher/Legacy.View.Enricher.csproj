@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BFI-common-framework\BFICommonFramework\BFICommon.Core\BFICommon.Core.csproj" />
+    <ProjectReference Include="..\..\..\BFI-common-framework\BFICommonFramework\BFICommon.Dataccess\BFICommon.Dataaccess.csproj" />
+    <ProjectReference Include="..\Legacy.Entities\Legacy.Entities.csproj" />
+    <ProjectReference Include="..\Legacy.Repository.Query\Legacy.Repository.Query.csproj" />
+    <ProjectReference Include="..\Legacy.Transaction.Rule\Legacy.Transaction.Rule.csproj" />
+    <ProjectReference Include="..\Legacy.View.Response\Legacy.View.Response.csproj" />
+    <ProjectReference Include="..\Legacy.View.ViewException\Legacy.View.ViewException.csproj" />
+  </ItemGroup>
+
+</Project>

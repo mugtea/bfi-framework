@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="SMS\**" />
+    <EmbeddedResource Remove="SMS\**" />
+    <None Remove="SMS\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BFI-common-framework\BFICommonFramework\BFICommon.Dataccess\BFICommon.Dataaccess.csproj" />
+    <ProjectReference Include="..\..\..\BFI-common-framework\BFICommonFramework\BFICommon.Util\BFICommon.Util.csproj" />
+    <ProjectReference Include="..\Legacy.Database.SQLQuery\Legacy.Database.SQLQuery.csproj" />
+    <ProjectReference Include="..\Legacy.Entities\Legacy.Entities.csproj" />
+    <ProjectReference Include="..\Legacy.View.Request\Legacy.View.Request.csproj" />
+  </ItemGroup>
+
+</Project>

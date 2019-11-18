@@ -1,0 +1,1318 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.APIServer\\Legacy.API.APIServer.csproj": {}
+  },
+  "projects": {
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj",
+        "projectName": "BFICommon.Core",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AspNetCore.Routing": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj",
+        "projectName": "BFICommon.Dataaccess",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.Common": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj",
+        "projectName": "BFICommon.Util",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "Swashbuckle.AspNetCore.Annotations": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.Data.DataSetExtensions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.APIServer\\Legacy.API.APIServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.APIServer\\Legacy.API.APIServer.csproj",
+        "projectName": "Legacy.API.APIServer",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.APIServer\\Legacy.API.APIServer.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.APIServer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Controller\\Legacy.Transaction.Controller.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Controller\\Legacy.Transaction.Controller.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "IPAddressRange": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.Proxy\\Legacy.API.Proxy.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.Proxy\\Legacy.API.Proxy.csproj",
+        "projectName": "Legacy.API.Proxy",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.Proxy\\Legacy.API.Proxy.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.Proxy\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj",
+        "projectName": "Legacy.Database.SQLQuery",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj",
+        "projectName": "Legacy.Entities",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj",
+        "projectName": "Legacy.Repository.Command",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj",
+        "projectName": "Legacy.Repository.Query",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Util\\BFICommon.Util.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Database.SQLQuery\\Legacy.Database.SQLQuery.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Action\\Legacy.Transaction.Action.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Action\\Legacy.Transaction.Action.csproj",
+        "projectName": "Legacy.Transaction.Action",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Action\\Legacy.Transaction.Action.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Action\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.Proxy\\Legacy.API.Proxy.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.API.Proxy\\Legacy.API.Proxy.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.TransactionException\\Legacy.Transaction.TransactionException.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.TransactionException\\Legacy.Transaction.TransactionException.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Controller\\Legacy.Transaction.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Controller\\Legacy.Transaction.Controller.csproj",
+        "projectName": "Legacy.Transaction.Controller",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Controller\\Legacy.Transaction.Controller.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Action\\Legacy.Transaction.Action.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Action\\Legacy.Transaction.Action.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj",
+        "projectName": "Legacy.Transaction.Request",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\Legacy.Transaction.Request.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Request\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj",
+        "projectName": "Legacy.Transaction.Rule",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Command\\Legacy.Repository.Command.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.TransactionException\\Legacy.Transaction.TransactionException.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.TransactionException\\Legacy.Transaction.TransactionException.csproj",
+        "projectName": "Legacy.Transaction.TransactionException",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.TransactionException\\Legacy.Transaction.TransactionException.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.TransactionException\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj",
+        "projectName": "Legacy.View.Controller",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\Legacy.View.Controller.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Controller\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.6.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj",
+        "projectName": "Legacy.View.Enricher",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\Legacy.View.Enricher.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Enricher\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Core\\BFICommon.Core.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\BFI-common-framework\\BFICommonFramework\\BFICommon.Dataccess\\BFICommon.Dataaccess.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Entities\\Legacy.Entities.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Repository.Query\\Legacy.Repository.Query.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.Transaction.Rule\\Legacy.Transaction.Rule.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj"
+              },
+              "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj": {
+                "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj",
+        "projectName": "Legacy.View.Request",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\Legacy.View.Request.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Request\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj",
+        "projectName": "Legacy.View.Response",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\Legacy.View.Response.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.Response\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.6.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj",
+        "projectName": "Legacy.View.ViewException",
+        "projectPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\Legacy.View.ViewException.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\BFI\\Empty Framework - CRUD\\Empty Framework\\legacy-api-new\\Legacy\\Legacy.View.ViewException\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

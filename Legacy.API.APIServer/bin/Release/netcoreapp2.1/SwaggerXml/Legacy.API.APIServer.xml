@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Legacy.API.APIServer</name>
+    </assembly>
+    <members>
+        <member name="M:Legacy.API.APIServer.Controllers.Ping.PingController.Ping">
+            <summary>
+            Ping API Health Check.
+            </summary>
+            <remarks>
+            Ping API Health Check
+            </remarks>
+            <response code="200">Accepted</response>
+        </member>
+    </members>
+</doc>

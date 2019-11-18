@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\BFI-common-framework\BFICommonFramework\BFICommon.Dataccess\BFICommon.Dataaccess.csproj" />
+    <ProjectReference Include="..\Legacy.Entities\Legacy.Entities.csproj" />
+    <ProjectReference Include="..\Legacy.Repository.Command\Legacy.Repository.Command.csproj" />
+    <ProjectReference Include="..\Legacy.Repository.Query\Legacy.Repository.Query.csproj" />
+  </ItemGroup>
+
+</Project>

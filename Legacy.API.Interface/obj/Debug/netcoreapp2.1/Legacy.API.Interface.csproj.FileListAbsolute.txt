@@ -1,0 +1,32 @@
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.deps.json
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.csprojAssemblyReference.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfo.cs
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.deps.json
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfo.cs
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.deps.json
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfo.cs
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\bin\Debug\netcoreapp2.1\Legacy.API.Interface.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Interface\obj\Debug\netcoreapp2.1\Legacy.API.Interface.pdb

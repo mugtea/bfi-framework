@@ -1,0 +1,32 @@
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.deps.json
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfo.cs
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.deps.json
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfo.cs
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.deps.json
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfo.cs
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\bin\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.ViewException\obj\Debug\netcoreapp2.1\Legacy.View.ViewException.pdb

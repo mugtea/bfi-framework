@@ -1,0 +1,11 @@
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\bin\Release\netcoreapp2.1\Legacy.Entities.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\bin\Release\netcoreapp2.1\Legacy.Entities.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\bin\Release\netcoreapp2.1\Legacy.Entities.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\bin\Release\netcoreapp2.1\Legacy.View.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\bin\Release\netcoreapp2.1\Legacy.View.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\obj\Release\netcoreapp2.1\Legacy.Entities.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\obj\Release\netcoreapp2.1\Legacy.Entities.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\obj\Release\netcoreapp2.1\Legacy.Entities.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\obj\Release\netcoreapp2.1\Legacy.Entities.csproj.CopyComplete
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\obj\Release\netcoreapp2.1\Legacy.Entities.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Entities\obj\Release\netcoreapp2.1\Legacy.Entities.pdb

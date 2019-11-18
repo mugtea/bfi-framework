@@ -1,0 +1,533 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Area\**" />
+    <Compile Remove="Region\**" />
+    <EmbeddedResource Remove="Area\**" />
+    <EmbeddedResource Remove="Region\**" />
+    <None Remove="Area\**" />
+    <None Remove="Region\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System">
+      <HintPath>System</HintPath>
+    </Reference>
+    <Reference Include="System.Data">
+      <HintPath>System.Data</HintPath>
+    </Reference>
+    <Reference Include="System.Xml">
+      <HintPath>System.Xml</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Agreement\Resource\AgreementQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AgreementQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="AgreementAsset\Resource\AgreementAssetQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AgreementAssetQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="BankAccount\Resource\BankAccountQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BankAccountQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="CollectionGroup\CollectionGroupQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CollectionGroupQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Collection\CollectionQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CollectionGroupQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Email\EmailQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>EmailQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Employee\Resource\EmployeeQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>EmployeeQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="JournalScheme\Resource\JournalSchemeQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>JournalSchemeQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="PlanActivityCRE\Resource\PlanActivityCREQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PlanActivityCREQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Product\ProductQuery.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ProductQuery.resx</DependentUpon>
+    </Compile>
+    <Compile Update="TreatmentCustomerPrioritas\TreatmentCustomerPrioritasQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>TreatmentCustomerPrioritasQueries.resx</DependentUpon>
+    </Compile>
+	<Compile Update="Collection\CollectionQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CollectionQueries.resx</DependentUpon>
+	</Compile>
+    <Compile Update="VAN\Resource\VANQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>VANQueries.resx</DependentUpon>
+    </Compile>  
+    <ProjectReference Include="..\..\..\BFI-common-framework\BFICommonFramework\BFICommon.Dataccess\BFICommon.Dataaccess.csproj" />
+    <ProjectReference Include="..\Legacy.Entities\Legacy.Entities.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="Agreement\Resource\AgreementQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AgreementQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Asset\Resource\AssetQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AssetQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Assignments\Resource\AssignmentsQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>AssignmentsQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Branch\Resource\BranchQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BranchQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="BulkUpload\Resource\BulkUploadQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>BulkUploadQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="CashOut\Resource\CashOutQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CashOutQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Customer\Resource\CustomerQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>CustomerQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="EDC\Resource\EDCQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>EDCQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="EDC\Resource\EDCQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>EDCQueries.resx</DependentUpon>
+    </Compile>  
+    <Compile Update="Dukcapil\Resource\DukcapilQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>DukcapilQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Employee\Resource\EmployeeQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>EmailQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Forecasting\Resource\ForecastingQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ForecastingQueries.resx</DependentUpon>
+    </Compile>  
+    <Compile Update="Employee\Resource\EmployeeQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>EmployeeQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Holiday\Resource\HolidayQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>HolidayQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Incentive\IncentiveBA\Resource\IncentiveBAQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>IncentiveBAQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="IMS\Resource\IMSQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>IMSQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="KAM\Resource\KAMQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>KAMQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="LAH\Resource\LAHQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>LAHQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="LoanLedger\LoanLedgerQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>LoanLedgerQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="MasterMenu\Resource\MasterMenuQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>MasterMenuQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="PersonalCustomer\Resource\PersonalCustomerQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PersonalCustomerQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="PlanVisitRO\Resource\PlanVisitROQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PlanVisitROQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Profesi\Resource\ProfesiQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ProfesiQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="PurchaseOrder\Resource\PurchaseOrderQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PurchaseOrderQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SMS\Resource\SMSQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SMSQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="Religion\Resource\ReligionQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>ReligionQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SMSNadyne\Resource\SMSNadyneQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SMSNadyneQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SqlQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SqlQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SystemControlCoy\Resource\SystemControlCoyQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SystemControlCoyQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="SystemControl\Resource\SystemControlQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SystemControlQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RekonBankAccount\Resource\RekonBankAccountQueries.Designer.cs">
+      <DependentUpon>RekonBankAccountQueries.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="SubBranch\Resource\SubBranchResource.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>SubBranchResource.resx</DependentUpon>
+    </Compile>
+    <Compile Update="RekonBankHO\Resource\RekonBankHOQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>RekonBankHOQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="PembayaranBiroJasaViaHO\Resource\PembayaranBiroJasaViaHOQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>PembayaranBiroJasaViaHOQueries.resx</DependentUpon>
+    </Compile>
+    <Compile Update="VosPay\Resource\VospayQueries.Designer.cs">
+      <DependentUpon>VospayQueries.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Update="UserManagement\Resource\LoginConfinsQueries.Designer.cs">
+      <DesignTime>True</DesignTime>
+      <AutoGen>True</AutoGen>
+      <DependentUpon>LoginConfinsQueries.resx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="AgreementAsset\Resource\AgreementAssetQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AgreementAssetQueries.Designer.cs</LastGenOutput>
+      <LastGenOutput>AgreementQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Asset\Resource\AssetQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Assignments\Resource\AssignmentsQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AssignmentsQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CollectionGroup\CollectionGroupQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CollectionGroupQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>    
+    <EmbeddedResource Update="JournalScheme\Resource\JournalSchemeQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>JournalSchemeQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="PlanActivityCRE\Resource\PlanActivityCREQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>PlanActivityCREQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Product\ProductQuery.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>ProductQuery.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TreatmentCustomerPrioritas\TreatmentCustomerPrioritasQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>TreatmentCustomerPrioritasQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VAN\Resource\VANQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>VANQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Branch\Resource\BranchQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>BranchQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="BulkUpload\Resource\BulkUploadQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>BulkUploadQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CashOut\Resource\CashOutQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CashOutQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Customer\Resource\CustomerQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CustomerQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Employee\Resource\EmployeeQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>EmployeeQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Agreement\Resource\AgreementQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>AgreementQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="BankAccount\Resource\BankAccountQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>BankAccountQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="CollectionGroup\CollectionGroupQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CollectionGroupQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="JournalScheme\Resource\JournalSchemeQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>JournalSchemeQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="TreatmentCustomerPrioritas\TreatmentCustomerPrioritasQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>TreatmentCustomerPrioritasQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="SubBranch\Resource\SubBranchResource.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>SubBranchResource.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="Collection\CollectionQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>CollectionQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Update="VAN\Resource\VANQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>VANQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Asset\Resource\AssetQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>AssetQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Branch\Resource\BranchQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>BranchQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="BulkUpload\Resource\BulkUploadQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>BulkUploadQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Branch\Resource\BranchQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+      </EmbeddedResource>
+      <EmbeddedResource Update="CashOut\Resource\CashOutQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>CashOutQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Email\EmailQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>EmailQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="EDC\Resource\EDCQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>EDCQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+      <EmbeddedResource Update="Customer\Resource\CustomerQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>CustomerQueries.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+        <EmbeddedResource Update="Dukcapil\Resource\DukcapilQueries.resx">
+        <Generator>PublicResXFileCodeGenerator</Generator>
+        <LastGenOutput>DukcapilQueries.Designer.cs</LastGenOutput>
+          </EmbeddedResource>
+        <EmbeddedResource Update="Customer\Resource\CustomerQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>CustomerQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Employee\Resource\EmployeeQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>EmployeeQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Forecasting\Resource\ForecastingQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>ForecastingQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Holiday\Resource\HolidayQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>HolidayQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Incentive\IncentiveBA\Resource\IncentiveBAQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>IncentiveBAQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="IMS\Resource\IMSQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>IMSQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="KAM\Resource\KAMQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>KAMQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="LAH\Resource\LAHQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>LAHQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Branch\Resource\BranchQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>BranchQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="LoanLedger\LoanLedgerQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>LoanLedgerQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="MasterMenu\Resource\MasterMenuQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>MasterMenuQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="PersonalCustomer\Resource\PersonalCustomerQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>PersonalCustomerQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="PlanVisitRO\Resource\PlanVisitROQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>PlanVisitROQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="EmployeePosition\Resource\EmployeePositionQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>EmployeePositionQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="IMS\Resource\IMSQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>IMSQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Profesi\Resource\ProfesiQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>ProfesiQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="PurchaseOrder\Resource\PurchaseOrderQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>PurchaseOrderQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="SMS\Resource\SMSQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>SMSQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Religion\Resource\ReligionQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>ReligionQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="SMSNadyne\Resource\SMSNadyneQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>SMSNadyneQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="SqlQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>SqlQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="SystemControlCoy\Resource\SystemControlCoyQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>SystemControlCoyQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="SystemControl\Resource\SystemControlQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>SystemControlQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="RekonBankAccount\Resource\RekonBankAccountQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>RekonBankAccountQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="RekonBankHO\Resource\RekonBankHOQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>RekonBankHOQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="PembayaranBiroJasaViaHO\Resource\PembayaranBiroJasaViaHOQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>PembayaranBiroJasaViaHOQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="VosPay\Resource\VospayQueries.resx">
+          <Generator>PublicResXFileCodeGenerator</Generator>
+          <LastGenOutput>VospayQueries.Designer.cs</LastGenOutput>
+        </EmbeddedResource>
+        <EmbeddedResource Update="AgreementAsset\GetAsset.sql">
+          <LastGenOutput>GetAsset.Designer.cs</LastGenOutput>
+          <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="Customer\GetCustomer.sql">
+          <LastGenOutput>GetCustomer.Designer.cs</LastGenOutput>
+          <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+        <EmbeddedResource Update="PlanVisitRO\GerPlanVisitROCRE.sql">
+          <LastGenOutput>GerPlanVisitROCRE.Designer.cs</LastGenOutput>
+          <Generator>PublicResXFileCodeGenerator</Generator>
+        </EmbeddedResource>
+      </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Update="UserManagement\Resource\LoginConfinsQueries.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>LoginConfinsQueries.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>

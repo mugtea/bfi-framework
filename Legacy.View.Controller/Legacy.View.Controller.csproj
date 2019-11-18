@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.6.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Legacy.Entities\Legacy.Entities.csproj" />
+    <ProjectReference Include="..\Legacy.View.Enricher\Legacy.View.Enricher.csproj" />
+    <ProjectReference Include="..\Legacy.View.Response\Legacy.View.Response.csproj" />
+    <ProjectReference Include="..\Legacy.View.ViewException\Legacy.View.ViewException.csproj" />
+  </ItemGroup>
+
+</Project>

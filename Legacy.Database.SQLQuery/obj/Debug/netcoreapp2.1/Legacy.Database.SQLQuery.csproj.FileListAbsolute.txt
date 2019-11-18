@@ -1,0 +1,67 @@
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.deps.json
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Core.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Dataaccess.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Util.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Entities.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Dataaccess.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Entities.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Core.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Util.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csprojAssemblyReference.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.SqlQueries.resources
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.GenerateResource.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.AssemblyInfo.cs
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.CopyComplete
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.deps.json
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Core.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Dataaccess.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Util.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Entities.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Dataaccess.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Entities.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Core.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Util.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csprojAssemblyReference.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.SqlQueries.resources
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.GenerateResource.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.AssemblyInfo.cs
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.CopyComplete
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.Product.ProductQuery.resources
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.View.Request.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.View.Request.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.View.Request.xml
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.K2Menu.k2MenuResource.resources
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Core.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Dataaccess.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Util.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Entities.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.View.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Dataaccess.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.Entities.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Core.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\BFICommon.Util.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.View.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\bin\Debug\netcoreapp2.1\Legacy.View.Request.xml
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.Product.ProductQuery.resources
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.SqlQueries.resources
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.GenerateResource.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.csproj.CopyComplete
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.Database.SQLQuery\obj\Debug\netcoreapp2.1\Legacy.Database.SQLQuery.pdb

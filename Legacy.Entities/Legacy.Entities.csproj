@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="BulkUpload\**" />
+    <Compile Remove="EDC\**" />
+    <Compile Remove="Forecasting\**" />
+    <Compile Remove="JournalScheme\**" />
+    <Compile Remove="SMS\**" />
+    <Compile Remove="SubBranch\**" />
+    <EmbeddedResource Remove="BulkUpload\**" />
+    <EmbeddedResource Remove="EDC\**" />
+    <EmbeddedResource Remove="Forecasting\**" />
+    <EmbeddedResource Remove="JournalScheme\**" />
+    <EmbeddedResource Remove="SMS\**" />
+    <EmbeddedResource Remove="SubBranch\**" />
+    <None Remove="BulkUpload\**" />
+    <None Remove="EDC\**" />
+    <None Remove="Forecasting\**" />
+    <None Remove="JournalScheme\**" />
+    <None Remove="SMS\**" />
+    <None Remove="SubBranch\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Legacy.View.Request\Legacy.View.Request.csproj" />
+  </ItemGroup>
+
+  
+</Project>

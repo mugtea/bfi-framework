@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Legacy.Transaction.TransactionException/1.0.0": {
+        "runtime": {
+          "Legacy.Transaction.TransactionException.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Legacy.Transaction.TransactionException/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,50 @@
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.deps.json
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.xml
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csprojAssemblyReference.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfo.cs
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csproj.CopyComplete
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.deps.json
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.pdb
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.xml
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csprojAssemblyReference.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfo.cs
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csproj.CopyComplete
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+C:\Users\william\Desktop\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.deps.json
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.pdb
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.xml
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csprojAssemblyReference.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfo.cs
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csproj.CopyComplete
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+D:\BFI\Empty Framework\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\bin\Debug\netcoreapp2.1\Legacy.Transaction.Request.xml
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.csproj.CopyComplete
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.API.Proxy\obj\Debug\netcoreapp2.1\Legacy.API.Proxy.pdb

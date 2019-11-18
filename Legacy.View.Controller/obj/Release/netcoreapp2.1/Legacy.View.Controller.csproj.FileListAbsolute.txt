@@ -1,0 +1,71 @@
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Controller.deps.json
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Controller.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Controller.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Core.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Dataaccess.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Util.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Entities.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Command.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Query.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Request.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Rule.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Enricher.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Request.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Response.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.ViewException.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Entities.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Enricher.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Response.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.ViewException.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Core.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Dataaccess.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Util.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Command.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Query.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Request.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Rule.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Request.pdb
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.csprojAssemblyReference.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.csproj.CoreCompileInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.AssemblyInfoInputs.cache
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.AssemblyInfo.cs
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.csproj.CopyComplete
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.dll
+C:\Users\william\Desktop\Git Projects\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Controller.deps.json
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Controller.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Controller.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Core.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Dataaccess.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Util.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Database.SQLQuery.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Entities.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Command.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Query.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Rule.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Enricher.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Request.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Response.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.ViewException.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Entities.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Enricher.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Response.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.ViewException.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Core.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Dataaccess.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\BFICommon.Util.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Database.SQLQuery.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Command.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Repository.Query.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.Transaction.Rule.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\bin\Release\netcoreapp2.1\Legacy.View.Request.pdb
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.csprojAssemblyReference.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.AssemblyInfoInputs.cache
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.AssemblyInfo.cs
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.csproj.CopyComplete
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.dll
+D:\BFI\Empty Framework - CRUD\Empty Framework\legacy-api-new\Legacy\Legacy.View.Controller\obj\Release\netcoreapp2.1\Legacy.View.Controller.pdb
